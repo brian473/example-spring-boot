@@ -1,8 +1,7 @@
-# Spring boot - Kotlin - starter
+# Spring boot starter
 
 ### Stack details
-
-- Kotlin
+- Java 8
 - PostgreSQL
 - Gradle
 - Docker/Docker-Compose
